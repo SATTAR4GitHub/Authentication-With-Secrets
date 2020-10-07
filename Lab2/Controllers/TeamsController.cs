@@ -1,7 +1,4 @@
-﻿// I, Abdus Sattar Mia, student number 000394648, certify that this material is my
-// original work. No other person's work has been used without due
-// acknowledgement and I have not made my work available to anyone else.
-using System;
+﻿using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
